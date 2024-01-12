@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Course Expært </string>
+    //pasta
+    <string name="pastaIngredients">To cook a simple and delicious hamburger, start by preheating a skillet over medium-high heat. Shape ground beef into patties, season with salt and pepper, and cook for about 3-4 minutes on each side for medium doneness. Add cheese if desired, allowing it to melt in the last minute. Rest the patties for a couple of minutes before assembling on toasted hamburger buns </string>
+    <string name="pastaDesc">Cook your pasta until al dente
+\nSaute’ garlic in olive oil until fragrant
+\nAdd cream cheese, pasta cooking water, parmesan, and stir well
+\nDrain and add pasta to the skillet
+\nToss until well combined, adding some pasta water if needed</string>
+    //maggi
+    <string name="maggiIngredients">To prepare a quick and easy porridge, bring a pot of water or milk to a boil. Stir in rolled oats or any preferred grain, such as rice or quinoa, and reduce the heat to low. </string>
+    <string name="maggieDesc">Add one and half cup of water
+\nAdd maggi noodles and boil it
+\nAdd the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string>
+    //cake
+    <string name="cakeIngredients">Creating milky Yakult is simple and delightful. Start by pouring a desired amount of Yakult into a glass. Then, add cold milk of your choice, adjusting the ratio based on your preference for creaminess. </string>
+    <string name="cakeDesc">Add one and half cup of water
+Add maggi noodles and boil it
+Add the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string>
+    //pancake
+    <string name="pancakeIngredients">For a quick and easy fried rice, start by heating oil in a large pan or wok over medium heat. Add diced vegetables like carrots, peas, and corn, sautéing them until they are tender. </string>
+    <string name="pancakeDesc">Add one and half cup of water
+Add maggi noodles and boil it
+Add the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string>
+    //pizza
+    <string name="pizzaIngredients">To prepare a simple and tasty chicken katsu, start by seasoning chicken cutlets with salt and pepper. Coat each piece in flour, dip into beaten eggs, and then generously coat with breadcrumbs, ensuring an even covering. Heat vegetable oil in a pan over medium heat. </string>
+    <string name="pizzaDesc">Add one and half cup of water
+Add maggi noodles and boil it
+Add the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string>
+    //burgers
+    <string name="burgerIngredients">For a quick and easy scramble egg, heat a non-stick skillet over medium heat. In a bowl, whisk eggs with a pinch of salt and pepper until well combined. Add a small amount of butter or oil to the heated skillet. Pour the beaten eggs into the pan, and let them sit undisturbed for a moment to allow the edges to set.</string>
+    <string name="burgerDesc">Add one and half cup of water
+\nAdd maggi noodles and boil it
+\nAdd the maggi masala on to it
+\nWait for 2 mins
+\nMaggi is ready!</string>
+    <string name="bootstrap">For a quick and easy banana milk, peel and slice a ripe banana into a blender. Add about one to two cups of cold milk, adjusting the quantity based on your preferred thickness. Optionally, sweeten the mixture with honey or sugar to taste. Blend the ingredients until smooth and well combined. Pour the banana milk into a glass, and if desired, add ice for a refreshing touch. This straightforward method yields a creamy and naturally sweet banana-flavored milk that is not only delicious but also a great way to enjoy a nutritious beverage.</string>
+    <string name="maya">To make easy and delicious fried chicken, start by seasoning chicken pieces with salt, pepper, and any desired spices. In a bowl, whisk together flour with your favorite herbs and spices for coating. Dredge each piece of chicken in the seasoned flour mixture, ensuring they are well coated. </string>
+    <string name="mayaDesc">baa</string>
+    <string name="bootstarpDosc">okkckdy</string>
+
+</resources>
+
+
+
+
+
+
